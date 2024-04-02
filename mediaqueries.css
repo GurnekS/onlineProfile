@@ -94,4 +94,11 @@
     .text-container{
         text-align: justify;
     }
+    .about-details-container {
+        margin-top: 2rem; /* Add margin to separate text from the image */
+        text-align: justify; /* Align text to justify */
+    }
+    .text-container p {
+        padding: 0 1rem; /* Add padding to the sides of the text */
+    }
 }
