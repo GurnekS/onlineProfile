@@ -48,10 +48,13 @@
   }
   
   @media screen and (max-width: 600px) {
-    #contact,
-    footer {
+    #contact,footer {
       height: 40vh;
     }
+    .about-pic{
+      display: none;
+    }
+
     #profile {
       height: 83vh;
       margin-bottom: 0;
@@ -100,4 +103,5 @@
     .text-container {
       text-align: justify;
     }
+
   }
